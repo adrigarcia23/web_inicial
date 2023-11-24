@@ -1,0 +1,70 @@
+body {
+    background-color:ivory;
+    color: darkolivegreen;
+}
+
+hr {
+    border-color: black;
+    height: 2%;
+}
+header {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-radius: 5px;
+}
+
+nav {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    BORDER: solid;
+    border-color: black;
+    border-radius: 5px;
+
+}
+
+a:link
+    a:hover {color: blueviolet; text-decoration: underline;}
+    a:focus {color: blue; text-decoration: underline;}
+    a:active {color: black; background-color: white;}
+    a:visited {color: lightcoral; text-decoration: underline;}
+
+main {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+footer {
+    margin-top: 25px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    color: grey;
+    font-weight: bold;
+    background-color: rgba(189, 158, 72, 0.811);
+    border-radius: 10px;
+    border: solid;
+    border-color: brown
+}
+
+.taula {
+    border-color: blue;
+    align-items: center;
+}
+
+th {
+    color: brown;
+    text-decoration: underline;
+   
+}
+
+.audio {
+    border: solid;
+    border-color: blueviolet;
+    border-radius: 30px;
+    margin: 15px;
+}
+
+.video {
+    border: solid;
+    border-color: cornflowerblue;
+    margin-top: 5px;
+    margin-left: 10px;
+}
